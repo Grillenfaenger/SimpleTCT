@@ -1,0 +1,50 @@
+SimpleTCT v1.0
+================
+
+================
+LICENSE
+================
+
+SimpleTCT (Simple Text Comparison Tool) is licensed under the following: 
+Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License
+
+This project's development has been led by James O'Sullivan 
+Web: josullivan.org | Twitter: @jamescosullivan
+
+SimpleTCT is maintained by the OpenDAHT project
+Web: OpenDAHT.org | Twitter: @OpenDAHT
+
+NOTE: Any derivatives must adhere to the specified license, and attribution
+must be made in the form of this notice being retained in any future
+developments. If you would like to contribute directly to official builds 
+and releases of future iterations of SimpleTCT, please feel free to
+contact OpenDAHT.
+
+OpenDAHT, its contributors and associated developers take no responsibility for anything that occurs as a result of the use of SimpleTCT. SimpleTCT has been thoroughly tested, but as with any software, guarantees cannot be offered in relation to how it will perform within everyday use across differing platforms. If you use SimpleTCT, then you agree to these terms.
+
+================
+INSTRUCTIONS
+================
+
+SimpleTCT is a simplified management environment designed to assist in textual comparison. Users can display the contents of .rtf files, define themes, highlight passages and add personal notes as required. A document may then be exported containing all of the selected passages, organised thematically, situated alongside the relevant notes. 
+
+
+1. Launch SimpleTCT by executing the downloaded .jar file (install Java runtime environment if required) http://java.com/en/download/
+
+2. Create a new project if required, or alternatively, close the opening dialog box and select to open an existing project
+
+3. Documents added to a project folder will appear in the left panel once "Refresh" is selected
+
+4. Selecting a document from this panel will display its content in the main window
+
+5. Two themes are created by default, you can remove these by selecting "Delete"
+
+6. Create themes as desired with "New"
+
+7. To apply themes to segments of text, choose "Select" and highlight as required
+
+8. In the bottom dialog box notes can be added to highlighted segments
+
+9. Clear can be used to remove highlighted segments as required
+
+10. Select "Save Project" if required, our "Export" to product a .rtf file containing highlighted segments, sorted thematically, with relevant notes
